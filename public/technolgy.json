@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/0XS46Gf/Angular.png"
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/8M506Fq/Azure.png"
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/Zx36r9t/dotnet.png"
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/TL3SkTN/fullter.png"
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/PwtJVTL/ionic.png"
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co/dM6Ft5p/Python.png"
+    },
+    {
+        "id": 7,
+        "img": "https://i.ibb.co/LRMN8Rx/React.png"
+    },
+    {
+        "id": 8,
+        "img": "https://i.ibb.co/2jhTGMB/Vue.png"
+    },
+    {
+        "id": 9,
+        "img": "https://i.ibb.co/3cQrHxt/React.png"
+    },
+    {
+        "id": 10,
+        "img": "https://i.ibb.co/6b5Zdfp/go.png"
+    }
+    
+
+
+]

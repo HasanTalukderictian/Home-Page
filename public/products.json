@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "Fortune Commerce",
+      "desc": "Fortune tech offers resource augmentation for businesses, providing skilled professionals to enhance your team's capabilities.",
+      "img": "https://i.ibb.co/GxTJs23/Capture.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Fortune Inventory",
+      "desc": "Fortune tech offers resource augmentation for businesses, providing skilled professionals to enhance your team's capabilities.",
+      "img": "https://i.ibb.co/RvZs8G5/Capture1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Mobile apps",
+      "desc": "Fortune tech offers resource augmentation for businesses, providing skilled professionals to enhance your team's capabilities.",
+      "img": "https://i.ibb.co/JCrcYck/Capture2.jpg"
+    }
+]

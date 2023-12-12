@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "UI / UX Design",
+      "desc": "Fortune tech offers resource augmentation for businesses, providing skilled professionals to enhance your team's capabilities",
+      "img": "https://i.ibb.co/ggTLt9G/ui-removebg-preview.jpg"
+    },
+    {
+      "id": 2,
+      "name": "E-commerce Solution",
+      "desc": "Fortune tech offers resource augmentation for businesses, providing skilled professionals to enhance your team's capabilities.",
+      "img": "https://i.ibb.co/MZVK53K/emmorce-removebg-preview-1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Mobile Apps Development",
+      "desc": "Fortune tech offers resource augmentation for businesses, providing skilled professionals to enhance your team's capabilities",
+      "img": "https://i.ibb.co/GQYr2D8/mobile-6-removebg-preview.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Digital Marketing",
+      "desc": "Fortune tech offers resource augmentation for businesses, providing skilled professionals to enhance your team's capabilities",
+      "img": "https://i.ibb.co/qs3WHVg/digtal-removebg-preview.jpg"
+    }
+]
